@@ -1,6 +1,6 @@
 # swagger to markdown
 
-将swagger文档输出到markdown文件
+convert swagger json metadata to markdown file.
 
 ## version
 swagger: v2
@@ -9,4 +9,5 @@ swagger: v2
 ```shell
 java -jar swagger2md.jar [the url for swagger json doc] [output local dir]
 ```
-## Document effect
+## MD document example
+[test.md](https://github.com/TonyLiu0112/swagger2md/wiki/tableDemoPic)
