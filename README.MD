@@ -5,6 +5,8 @@
 ## version
 swagger: v2
 
+## How to use
 ```shell
-java -jar swagger2md.jar [swagger文档json描述url] [输出文件本地路径]
+java -jar swagger2md.jar [the url for swagger json doc] [output local dir]
 ```
+## Document effect
